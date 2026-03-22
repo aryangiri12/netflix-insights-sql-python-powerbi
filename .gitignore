@@ -1,0 +1,5 @@
+git add .gitignore
+git commit -m "Added gitignore"
+git rm -r --cached .
+git add .
+git commit -m "Applied .gitignore properly"
